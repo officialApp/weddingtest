@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "android-launchericon-512-512.png"
   },
   {
-    "revision": "e28a9493462864b9910f",
+    "revision": "abde544177afe5b74166",
     "url": "css/app~bc5f445c.e5091971.css"
   },
   {
@@ -52,7 +52,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/page-test~fcee1841.8ffa37d0.css"
   },
   {
-    "revision": "70099ccc8cacc6bfa2b4",
+    "revision": "f9bbd4c4d55fd0233dc3",
     "url": "css/page-undangan-index~31ecd969.5da6ce16.css"
   },
   {
@@ -88,12 +88,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/typicons.cae8fddf.svg"
   },
   {
-    "revision": "151282cf1c50065ce7dc0b0e5119022f",
+    "revision": "ba10edd3057860d6675187cfc36c3255",
     "url": "index.html"
   },
   {
-    "revision": "e28a9493462864b9910f",
-    "url": "js/app~bc5f445c.03c3bfd9.js"
+    "revision": "abde544177afe5b74166",
+    "url": "js/app~bc5f445c.715c80b9.js"
   },
   {
     "revision": "b68109a0f880b8d7fb06",
@@ -280,8 +280,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/page-test~fcee1841.3cec67ae.js"
   },
   {
-    "revision": "70099ccc8cacc6bfa2b4",
-    "url": "js/page-undangan-index~31ecd969.4b9ad392.js"
+    "revision": "f9bbd4c4d55fd0233dc3",
+    "url": "js/page-undangan-index~31ecd969.9f4b2489.js"
   },
   {
     "revision": "58403d2c5545a83c1d9639948e084f98",
