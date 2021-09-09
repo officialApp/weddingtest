@@ -1,9 +1,15 @@
-importScripts("precache-manifest.1a61c37e8e41d3847bb466fd4a34f305.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("precache-manifest.3917e760b3df65670610513d8c137745.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 if (workbox) {
   console.log(`Workbox is loaded`);
 
-  workbox.precaching.precacheAndRoute(self.__precacheManifest);
+
+self.__precacheManifest = [].concat(self.__precacheManifest || []);
+workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
+
+self.addEventListener("message", (event) => {
+  if (event.data.action == "SKIP_WAITING") self.skipWaiting();
+});
 
 
 self.addEventListener('notificationclick', function (event) {
