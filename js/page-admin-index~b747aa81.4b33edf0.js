@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["page-admin-index~b747aa81"],{4208:function(n,t,a){"use strict";a.r(t);var e=function(){var n=this,t=n.$createElement,a=n._self._c||t;return a("div",[a("button",{staticClass:"btn btn-sm btn-primary  ",attrs:{type:"button"},on:{click:function(t){return n.$router.push("/admin/nikah")}}},[n._v(" List Undangan ")])])},i=[],r=a("2877"),s={},u=Object(r["a"])(s,e,i,!1,null,null,null);t["default"]=u.exports}}]);
-//# sourceMappingURL=page-admin-index~b747aa81.4b33edf0.js.map
