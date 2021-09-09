@@ -12,11 +12,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "android-launchericon-512-512.png"
   },
   {
-    "revision": "953312b83659411179a0",
+    "revision": "ec6266a767128783eaa0",
     "url": "css/app~bc5f445c.e5091971.css"
   },
   {
-    "revision": "63cf04a08b147a649c4f",
+    "revision": "fdb9382a342bd377bbb1",
     "url": "css/app~d0ae3f07.ae691e48.css"
   },
   {
@@ -52,7 +52,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/page-test~e7def479.a4096573.css"
   },
   {
-    "revision": "3718be9af6d03a68effb",
+    "revision": "264d5950064b7aabf8ed",
     "url": "css/page-undangan-index~31ecd969.5da6ce16.css"
   },
   {
@@ -80,10 +80,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "fonts/typicons.a509074c.eot"
   },
   {
-    "revision": "0948dbcde198e9943422424126d833dd",
-    "url": "img/bgring2.0948dbcd.jpg"
-  },
-  {
     "revision": "45c525d2e0832d3f6ee8bc3dcdb103ee",
     "url": "img/couple2.45c525d2.png"
   },
@@ -92,16 +88,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/typicons.cae8fddf.svg"
   },
   {
-    "revision": "3a7e63feacc8d11969905185d2f9acaa",
+    "revision": "30903db2c6ac33e14cc24044a9f01b37",
     "url": "index.html"
   },
   {
-    "revision": "953312b83659411179a0",
-    "url": "js/app~bc5f445c.7b25c6c5.js"
+    "revision": "ec6266a767128783eaa0",
+    "url": "js/app~bc5f445c.e373dd72.js"
   },
   {
-    "revision": "63cf04a08b147a649c4f",
-    "url": "js/app~d0ae3f07.664b47da.js"
+    "revision": "fdb9382a342bd377bbb1",
+    "url": "js/app~d0ae3f07.93f09371.js"
   },
   {
     "revision": "ad6c83480d4d99e46a7d",
@@ -168,8 +164,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-vendors~678675a8.94479e33.js"
   },
   {
-    "revision": "87b201b14a705b901695",
-    "url": "js/chunk-vendors~6ff199a4.a4512f68.js"
+    "revision": "be84b3b1432edb1f389f",
+    "url": "js/chunk-vendors~6ff199a4.426da382.js"
   },
   {
     "revision": "65d151812b2e6c6ae1ec",
@@ -268,8 +264,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/page-admin-nikah-galery~dd43ac2e.c05d8341.js"
   },
   {
-    "revision": "2d62ee14ce8d35fda132",
-    "url": "js/page-admin-nikah-index~702a8cc9.39dd7524.js"
+    "revision": "be6d7f5777440afe854f",
+    "url": "js/page-admin-nikah-index~b5441a28.2dcdfce5.js"
   },
   {
     "revision": "ba5752c44f57dd12341d",
@@ -292,8 +288,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/page-test~page-undangan-index~2c0f00ac.0664073d.js"
   },
   {
-    "revision": "3718be9af6d03a68effb",
-    "url": "js/page-undangan-index~31ecd969.5fef0eb3.js"
+    "revision": "264d5950064b7aabf8ed",
+    "url": "js/page-undangan-index~31ecd969.5f217e81.js"
   },
   {
     "revision": "735ab4f94fbcd57074377afca324c813",
