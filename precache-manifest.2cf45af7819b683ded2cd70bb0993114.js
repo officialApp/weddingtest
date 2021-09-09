@@ -88,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/typicons.cae8fddf.svg"
   },
   {
-    "revision": "de9427b6755feb14bda45adfb3edc896",
+    "revision": "28b5fbb203f3a4df188c12920a4882fd",
     "url": "index.html"
   },
   {
@@ -282,6 +282,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6fb071c0573444afc294",
     "url": "js/page-undangan-index~31ecd969.d68728b5.js"
+  },
+  {
+    "revision": "1a296a3314abfe5033ef6888c10c36cf",
+    "url": "og.jpg"
   },
   {
     "revision": "735ab4f94fbcd57074377afca324c813",
